@@ -1,6 +1,6 @@
 # Affixes
 
-In order to conduct frequency analysis of the targeted prefixes “un”, “in”, “dis” and “non”, our group set out to create a program that can identify the desired orthographic strings, recognize whether or not they serve as prefixes (versus non-morphemic letter strings) and perform token and type frequency analysis.
+Our final project for Computational Linguistics (LIGN 165, UCSD). In order to conduct frequency analysis of the targeted prefixes “un”, “in”, “dis” and “non”, our group set out to create a program that can identify the desired orthographic strings, recognize whether or not they serve as prefixes (versus non-morphemic letter strings) and perform token and type frequency analysis.
 
 ## Getting Started
 
